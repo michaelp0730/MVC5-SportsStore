@@ -33,3 +33,5 @@ C:\Users\mipelleg\Box Sync\ASP\Projects\SportsStore\SportsStore.UnitTests\bin\De
 C:\Users\mipelleg\Box Sync\ASP\Projects\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.csprojResolveAssemblyReference.cache
 C:\Users\mipelleg\Box Sync\ASP\Projects\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.dll
 C:\Users\mipelleg\Box Sync\ASP\Projects\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.pdb
+C:\Users\mipelleg\Box Sync\ASP\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\EntityFramework.dll
+C:\Users\mipelleg\Box Sync\ASP\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\EntityFramework.xml

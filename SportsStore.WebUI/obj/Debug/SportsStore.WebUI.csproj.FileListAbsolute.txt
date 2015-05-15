@@ -30,3 +30,7 @@ C:\Users\mipelleg\Box Sync\ASP\Projects\SportsStore\SportsStore.WebUI\bin\System
 C:\Users\mipelleg\Box Sync\ASP\Projects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
 C:\Users\mipelleg\Box Sync\ASP\Projects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
 C:\Users\mipelleg\Box Sync\ASP\Projects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+C:\Users\mipelleg\Box Sync\ASP\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+C:\Users\mipelleg\Box Sync\ASP\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\mipelleg\Box Sync\ASP\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+C:\Users\mipelleg\Box Sync\ASP\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
